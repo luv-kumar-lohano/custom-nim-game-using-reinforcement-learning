@@ -6,6 +6,8 @@
 
 This project showcases a unique puzzle game that combines strategic decision-making with an AI opponent. The game is designed for both casual players and enthusiasts looking to challenge an AI whose difficulty scales with the chosen level.
 
+To play the game, simply run "app.py"
+
 ## Overview of Game Mechanics
 
 ### 1. Main Menu
@@ -50,15 +52,3 @@ This project showcases a unique puzzle game that combines strategic decision-mak
 
 - After the game concludes, the Victory/Defeated page is shown.
 - Press `B` to navigate back to the Main Menu.
-
-## Troubleshooting
-
-If you encounter display issues or errors:
-
-- **Distorted ASCII Art:**
-  - **At the Main Menu:**  
-    Press any functional key (e.g., `1`-`5`, `I`, or `Q`) to refresh the display.
-  - **At the Victory/Defeated, Instructions, or Level Selection Pages:**  
-    Press `B` to return to the Main Menu. This should correct the display issues.
-
----
