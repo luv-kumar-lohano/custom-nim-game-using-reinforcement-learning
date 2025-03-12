@@ -1,6 +1,6 @@
-# Moon knight: The Pyramid's Curse
+# Moon Knight: The Pyramid's Curse
 
-**Moon knight: The Pyramid's Curse** is a single-player, turn-based puzzle game where you battle an AI trained via reinforcement learning. The game’s objective is to input a sequence of moves so that the opponent (AI) picks up the last block and loses. The interactive UI accepts direct inputs without needing to press 'Enter' after every move, creating a fluid gameplay experience.
+**Moon Knight: The Pyramid's Curse** is a single-player, turn-based custom puzzle game where you battle an AI trained via reinforcement learning. This game is a custom variation of the famous game - Nim. The game’s objective is to input a sequence of moves so that the opponent (AI) picks up the last block and loses. The interactive UI accepts direct inputs without needing to press 'Enter' after every move, creating a fluid gameplay experience.
 
 ## About the Project
 
